@@ -68,5 +68,4 @@ $ python blockchain.py
 ```
 - Open a web browser and navigate to "http://localhost:5000" to use the application.
 
-#### Copyright and License
-Copyright (c) 2018 Adeen Shukla - Released under the MIT License
+
